@@ -21,5 +21,6 @@ Data Transmission Interface:
   Enables reliable data transmission between the MCU and the host PC
 
 ![image](https://github.com/user-attachments/assets/7b730eb7-6d5e-41fb-aa32-3f42efc5dd7c)
-![前端取樣](https://github.com/user-attachments/assets/7d666927-43c4-461f-801a-ab063e0978e0)
+![前端取樣](https://github.com/user-attachments/assets/1c8c9187-8ac6-42cb-9463-3bc4454b9514)
+
 
